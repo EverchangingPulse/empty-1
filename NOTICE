@@ -1,0 +1,25 @@
+Raven Studio
+Copyright 2026 EverchangingPulse
+
+This product includes original work distributed under the Apache License,
+Version 2.0, subject to the scope described in LICENSE and
+THIRD_PARTY_NOTICES.md.
+
+Attribution for Raven Studio:
+  Project: Raven Studio
+  Repository: https://github.com/EverchangingPulse/empty-1
+
+Third-party attribution:
+  pyRavenMatrices by Can Mekik
+  Source: https://github.com/cmekik/pyRavenMatrices
+
+Early versions of Raven Studio analyzed and adapted certain geometry and
+structural ideas from pyRavenMatrices. Copyright and other rights in upstream
+material remain with their respective owner(s).
+
+No statement in this NOTICE or in the Apache-2.0 license for Raven Studio is
+intended to relicense third-party material for which the Raven Studio authors
+do not hold licensing authority.
+
+Redistributions of Raven Studio material covered by Apache-2.0 should retain
+this NOTICE where required by Section 4(d) of that license.
